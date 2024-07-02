@@ -1,0 +1,6 @@
+latex/
+.idea/
+__pycache__
+venv/
+eldamo-db.sqlite3
+new-endamo.db
